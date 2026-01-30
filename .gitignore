@@ -3,15 +3,13 @@
 !/.gitignore
 
 !/DesafioCodigo/
-
-# Permite QUALQUER pasta dentro de DesafioCodigo que tenha 'src'
+# Permite QUALQUER pasta dentro de DesafioCodigo
 !/DesafioCodigo/*/
-
 # Permite .gitignore dentro de QUALQUER subpasta de DesafioCodigo
 !/DesafioCodigo/*/.gitignore
-
 # Permite pasta src dentro de QUALQUER subpasta
 !/DesafioCodigo/*/src/
-
 # Permite tudo dentro de src
 !/DesafioCodigo/*/src/**
+
+!/CriandoAPIRest/**
